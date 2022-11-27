@@ -1,1 +1,1 @@
-rootProject.name = "kata-kt-0lly"
+rootProject.name = "ktkata"

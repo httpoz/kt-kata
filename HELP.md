@@ -1,8 +1,3 @@
-# Read Me First
-The following was discovered as part of building this project:
-
-* The original package name 'com.httpoz.kata-kt-0lly' is invalid and this project uses 'com.httpoz.katakt0lly' instead.
-
 # Getting Started
 
 ### Reference Documentation

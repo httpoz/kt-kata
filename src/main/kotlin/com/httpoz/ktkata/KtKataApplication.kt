@@ -1,11 +1,11 @@
-package com.httpoz.katakt0lly
+package com.httpoz.ktkata
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class KataKt0llyApplication
+class KtKataApplication
 
 fun main(args: Array<String>) {
-	runApplication<KataKt0llyApplication>(*args)
+	runApplication<KtKataApplication>(*args)
 }

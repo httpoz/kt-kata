@@ -1,6 +1,7 @@
 scrape_configs:
   - job_name: 'kt-kata'
     scrape_interval: 15s
+    metrics_path: '/prometheus'
     static_configs:
       - targets: ['kt-kata:8080']
 
